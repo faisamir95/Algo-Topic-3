@@ -1,19 +1,195 @@
-===================================================THIS IS THE SORTED DATA BASED ON NAME================================================
-Akmar Yaakub                   Puchong Selangor               akmaryaakub@gmail.com                    1977.06.05           5000      
-Anis Amirah                    Tiang Dua Melaka               anisdinarif97@gmail.com                  1997.07.15           4000      
-Athina Luqman                  Kuching Sarawak                athina1268@gmail.com                     1978.06.18           3000      
-Azni Abas                      Linggi Negeri Sembilan         aznizali68@gmail.com                     1968.03.05           1200      
-Fatin Aisyah Ghazali           Linggi Negeri Sembilan         aisyah.fatin@gmail.com                   1997.05.20           3000      
-Fatin Aisyah Malali            Linggi Negeri Sembilan         cute.athirah@gmail.com                   2001.04.25           3000      
-Ghazali Yaakub                 Linggi Negeri Sembilan         gyaakub@yahoo.com                        1963.12.11           5000      
-Muhammad Hatem Ghazali         Linggi Negeri Sembilan         muhdhatem642@gmail.com                   1998.07.30           1200      
+
+Madeline                       Gillette                       egestas@in.net                           1996.11.30           4361      
 Muhd Fauzan Fauzi              Kuala Selangor Selangor        muhdfauzanfauzi@gmail.com                1997.01.24           3000      
 Munirah Hishamuddin            Cheras W.P. Kuala Lumpur       hyemin.mh@gmail.com                      1997.02.14           3000      
-Murasaki Haruhi                W.P. Kuala Lumpur              sisterofthecheater@gmail.com             1997.05.21           1200      
-Murasaki Hirui                 Shinjuku Tokyo                 cheaterofeverything@gmail.com            1998.07.31           1200      
-Noor Jannah Zainal             Lubok China Melaka             rainydae.97@gmail.com                    1997.09.08           1200      
-Nurfaqihah Namirah Adnan       Kuantan Pahang                 nurfaqihnamiradn@gmail.com               1998.09.11           4200      
 Nurhamizah Misuan              Kluang Johor                   mizamisuan97@gmail.com                   1997.03.04           3000      
-Nurhidayah Adnan               Puchong Selangor               nurhidayah.adnan@yahoo.com               1997.10.20           3000      
+Fatin Aisyah Ghazali           Linggi Negeri Sembilan         aisyah.fatin@gmail.com                   1997.05.20           3000      
+Murasaki Haruhi                W.P. Kuala Lumpur              sisterofthecheater@gmail.com             1997.05.21           1200      
 Nurul Aisyah Kusnen            Kulim Kedah                    nurulaisyah7965@gmail.com                1997.06.05           2500      
+Anis Amirah                    Tiang Dua Melaka               anisdinarif97@gmail.com                  1997.07.15           4000      
+Noor Jannah Zainal             Lubok China Melaka             rainydae.97@gmail.com                    1997.09.08           1200      
+Stuart                         Chaumont-Gistoux               odio@Mauris.org                          1997.09.11           3117      
+Nurhidayah Adnan               Puchong Selangor               nurhidayah.adnan@yahoo.com               1997.10.20           3000      
+Addison                        Orta San Giulio                tempus@vitae.ca                          1998.02.18           3792      
+Muhammad Hatem Ghazali         Linggi Negeri Sembilan         muhdhatem642@gmail.com                   1998.07.30           1200      
+Murasaki Hirui                 Shinjuku Tokyo                 cheaterofeverything@gmail.com            1998.07.31           1200      
+Nurfaqihah Namirah Adnan       Kuantan Pahang                 nurfaqihnamiradn@gmail.com               1998.09.11           4200      
+Cade                           Narbonne                       malesuada.fringilla@tristiqueaceleifend.com 1998.12.02           1505      
+Ray                            Bailivre                       eu.metus.In@non.org                      1999.01.25           439       
+Aiko                           Port Blair                     mauris@sit.com                           1999.10.24           7251      
+Isaiah                         Bremen                         a.feugiat.tellus@semconsequatnec.net     2000.04.30           919       
+Zorita                         Beaumont                       a.dui.Cras@liberonec.org                 2000.07.08           6483      
+Benjamin                       Islamadabad                    quis.pede@facilisis.org                  2000.08.07           9140      
+Nicole                         Baidyabati                     amet.ante@odio.org                       2000.10.23           996       
+Fatin Aisyah Malali            Linggi Negeri Sembilan         cute.athirah@gmail.com                   2001.04.25           3000      
+Valentine                      Madrid                         phasellus@sapiencursusin.net             2001.05.22           3135      
+Gillian                        Molino dei Torti               magna@fringillapurus.edu                 2001.09.03           1814      
+Nomlanga                       Sereflikochisar                ut@at.org                                2002.01.31           668       
+Samantha                       Mignanego                      Cum.sociis.natoque@dolor.co.uk           2002.07.03           508       
+Brandon                        Annapolis Royal                et.risus@nisiAenean.org                  2002.07.30           9668      
+Vladimir                       Wallachia                      bibendum@orcisemeget.net                 2002.09.06           234       
+Chelsea                        Ciudad Real                    vehicula@metusVivamus.com                2003.03.31           650       
+James                          Lincoln                        eu@vitaeorci.org                         2003.12.22           577       
+Alan Walker                    Lima                           ac.eleifend@amet.co.uk                   2004.03.06           583       
+Nell                           De Haan                        vestibulum@Vestibulum.net                2004.07.24           5251      
+Carissa                        Fogliano                       Redipuglia                               Cras.dictum@vitaerisusDuis.net 1997.06.23
 
+===================================================THIS IS THE SORTED DATA BASED ON ADDRESS================================================
+Ian Chong                       Melbourne                     Donec@vehiculaet.co.uk                   1995.05.10           8568      
+Brandon                        Annapolis Royal                et.risus@nisiAenean.org                  2002.07.30           9668      
+Virginia                       Armo                           eget.tincidunt@rhoncusProinnisl.ca       1990.12.26           3901      
+Daphne                         Arrone                         semper@Suspendisseacmetus.org            1996.08.06           2696      
+Brianna                        Aydin                          lobortis.ultrices@sociisnatoque.com      1989.06.24           1527      
+Nicole                         Baidyabati                     amet.ante@odio.org                       2000.10.23           996       
+Ray                            Bailivre                       eu.metus.In@non.org                      1999.01.25           439       
+Quinn                          Baisy-Thy                      diam.Duis@sapien.net                     1996.03.05           1276      
+Sherlock Holmes                Baker Street 221B              sholmes@mindpalace.com.uk                1976.02.10           5489      
+John Watson                    Baker Street 221B              johnwatson@hotmail.com                   1975.10.28           4764      
+Zorita                         Beaumont                       a.dui.Cras@liberonec.org                 2000.07.08           6483      
+Jocelyn                        Bever Bievene                  in@nec.com                               1978.01.05           7876      
+Ashton                         Boussu-lez-Walcourt            enim@eulacus.net                         1984.10.10           6722      
+Isaiah                         Bremen                         a.feugiat.tellus@semconsequatnec.net     2000.04.30           919       
+Thane                          Burntisland                    nec.malesuada.ut@urna.com                1980.04.26           9704      
+Rashad                         Buzet                          posuere@adipiscing.co.uk                 1990.11.16           3863      
+Erich                          Cardigan                       eget.tincidunt.dui@velest.co.uk          1976.04.09           8983      
+Debra                          Castel Guelfo di Bologna       justo.sit@anteblanditviverra.co.uk       1992.12.16           4080      
+Gemma                          Chambave                       bibendum.sed.est@sagittis.edu            1980.07.23           7753      
+Stuart                         Chaumont-Gistoux               odio@Mauris.org                          1997.09.11           3117      
+Munirah Hishamuddin            Cheras W.P. Kuala Lumpur       hyemin.mh@gmail.com                      1997.02.14           3000      
+Chelsea                        Ciudad Real                    vehicula@metusVivamus.com                2003.03.31           650       
+Linus                          Colchester                     egestas@non.co.uk                        1986.10.27           7129      
+Pascale                        Coldstream                     neque.Sed@ipsum.edu                      1980.02.28           9971      
+Arthur                         Columbia                       diam.at.pretium@venenatisvelfaucibus.co.uk 1988.11.19           7439      
+Macaulay                       Dallas                         et@placeratvelitQuisque.net              1992.06.23           5673      
+Nell                           De Haan                        vestibulum@Vestibulum.net                2004.07.24           5251      
+Damon                          Delta                          dui.semper@nisiMauris.co.uk              1977.02.14           8834      
+Moses                          Egypt                          imperdiet@Phaselluselitpede.ca           1975.08.01           5294      
+Florence                       Florida                        senectus@tempor.ca                       1993.01.29           4099      
+Carissa                        Fogliano                       Redipuglia                               Cras.dictum@vitaerisusDuis.net 1997.06.23
+Madeline                       Gillette                       egestas@in.net                           1996.11.30           4361      
+Germaine                       Halifax                        felis@enimMaurisquis.com                 1980.05.19           5638      
+Holly                          Ilheus                         aenean.eget@Integervulputaterisus.co.uk  1975.12.31           8817      
+Benjamin                       Islamadabad                    quis.pede@facilisis.org                  2000.08.07           9140      
+Flynn                          Jackson                        Cras@lectus.com                          1990.09.29           3482      
+Hope                           Karacabey                      ut.quam.vel@traperinceptos.net           1989.10.09           7993      
+Nurhamizah Misuan              Kluang Johor                   mizamisuan97@gmail.com                   1997.03.04           3000      
+Muhd Fauzan Fauzi              Kuala Selangor Selangor        muhdfauzanfauzi@gmail.com                1997.01.24           3000      
+Nurfaqihah Namirah Adnan       Kuantan Pahang                 nurfaqihnamiradn@gmail.com               1998.09.11           4200      
+Athina Luqman                  Kuching Sarawak                athina1268@gmail.com                     1978.06.18           3000      
+Brett                          Kufstein                       felis.Nulla@enimcommodohendrerit.com     1994.10.23           1081      
+Nurul Aisyah Kusnen            Kulim Kedah                    nurulaisyah7965@gmail.com                1997.06.05           2500      
+Uma                            Leicester                      pede@fringillaporttitorvulputate.org     1992.03.08           7053      
+Alan Walker                    Lima                           ac.eleifend@amet.co.uk                   2004.03.06           583       
+James                          Lincoln                        eu@vitaeorci.org                         2003.12.22           577       
+Fatin Aisyah Ghazali           Linggi Negeri Sembilan         aisyah.fatin@gmail.com                   1997.05.20           3000      
+Muhammad Hatem Ghazali         Linggi Negeri Sembilan         muhdhatem642@gmail.com                   1998.07.30           1200      
+Ghazali Yaakub                 Linggi Negeri Sembilan         gyaakub@yahoo.com                        1963.12.11           5000      
+Azni Abas                      Linggi Negeri Sembilan         aznizali68@gmail.com                     1968.03.05           1200      
+Fatin Aisyah Malali            Linggi Negeri Sembilan         cute.athirah@gmail.com                   2001.04.25           3000      
+Noor Jannah Zainal             Lubok China Melaka             rainydae.97@gmail.com                    1997.09.08           1200      
+Valentine                      Madrid                         phasellus@sapiencursusin.net             2001.05.22           3135      
+Kristen	Santomenna             Manchester                     tempus.scelerisque@Nullamscelerisque.edu 1983.07.13           7784      
+Dara                           Mandurah                       sem.elit@bibendumullamcorper.ca          1974.07.08           7861      
+Christopher                    Mannheim                       enim.Curabitur.massa@elit.com            1981.12.10           9391      
+Lacus Welt                     Masterton                      lacus.Mauris@ligulaNullamfeugiat.com     1996.03.02           7446      
+Samantha                       Mignanego                      Cum.sociis.natoque@dolor.co.uk           2002.07.03           508       
+Keefe                          Mobique                        ultricies@nonummyacfeugiat.ca            1992.03.08           6935      
+Gillian                        Molino dei Torti               magna@fringillapurus.edu                 2001.09.03           1814      
+Neville                        Monguelfo-Tesido               a.arcu@bibendumDonec.org                 1996.10/05           3619      
+Travis                         Munster                        magna@neccursus.ca                       1989.04.17           6847      
+Abdul                          Naihati                        odio@loremsemperauctor.org               1994.09.17           6301      
+Lucius                         Naninne                        ullamcorper.magna@lobortis.org           1992.04.17           6341      
+Odette                         Nanterre                       Maecenas.iaculis.aliquet@ultricessit.ca  1989.09.13           8519      
+Cade                           Narbonne                       malesuada.fringilla@tristiqueaceleifend.com 1998.12.02           1505      
+Zachary                        Neuruppin                      lacus.rutrum@egestasDuisac.co.uk         1979.11.29           6045      
+Linus                          Olcenengo                      Suspendisse.ac.metus@nonleo.net          1990.02.24           7166      
+Addison                        Orta San Giulio                tempus@vitae.ca                          1998.02.18           3792      
+Aiko                           Port Blair                     mauris@sit.com                           1999.10.24           7251      
+Martina                        Provo                          justo@Nullam.com                         1993.05.23           4185      
+Nurhidayah Adnan               Puchong Selangor               nurhidayah.adnan@yahoo.com               1997.10.20           3000      
+Akmar Yaakub                   Puchong Selangor               akmaryaakub@gmail.com                    1977.06.05           5000      
+Seth                           Sainte-Marie-Chevigny          gestas.blandit@nondapibusrutrum.edu      1988.04.28           8759      
+William                        San Antonio                    neque@dolorQuisquetincidunt.ca           1983.02.11           3582      
+Maia                           San Rafael                     Quisque.ac.libero@estNunclaoreet.com     1992.03.14           2323      
+Madonna                        Santarcangelo di Romagna       ullamcorper@tempus.ca                    1990.12.12           6167      
+Echo                           Santiago                       augue.acipsum@Pellentesque.ca            1989.04.12           3625      
+Amy                            Schagen                        natoque.pena@nullavulputatedui.ca        1994.07.29           925       
+Nomlanga                       Sereflikochisar                ut@at.org                                2002.01.31           668       
+Murasaki Hirui                 Shinjuku Tokyo                 cheaterofeverything@gmail.com            1998.07.31           1200      
+Dustin                         Sotteville-les-Rouen           Nunc.sed.orci@a.co.uk                    1996.07.25           4465      
+Robin                          Stokrooie                      purus.Maecenas.libero@Donecnibh.com      1986.11.12           7081      
+Whitney                        Texas                          semper@natoquepenatibuset.edu            1980.05.29           7411      
+Anis Amirah                    Tiang Dua Melaka               anisdinarif97@gmail.com                  1997.07.15           4000      
+Richard                        Tibet                          etiam.vestibulum.massa@nunc.ca           1987.07.16           6317      
+Ira                            Todi                           Ut.sagittis@indolorFusce.net             1995.11.18           3775      
+Anastasia                      Turriaco                       ac.eleifend.vitae@sapien.net             1988.09.21           6870      
+Kylie                          Vergnies                       Donec.dignissim@mattissemperdui.net      1970.05.08           9269      
+Janna                          Villarrica                     augue.ac@ipsumsodalespurus.ca            1994.12.20           3958      
+Chelsea                        Villers-Perwin                 luctus@idsapien.com                      1983.01.02           7031      
+Carolyn                        Villingen-Schwennin            metus.Aliquam@Vestibulumante.org         1994.01.13           3410      
+Murasaki Haruhi                W.P. Kuala Lumpur              sisterofthecheater@gmail.com             1997.05.21           1200      
+Vladimir                       Wallachia                      bibendum@orcisemeget.net                 2002.09.06           234       
+Oprah                          West Vancouver                 tempor.bibendum@montesnascetur.co.uk     1982.10.13           7528      
+Brielle                        White Rock                     diam@cursuspurus.ca                      1989.06.01           6570      
+
+===================================================THIS IS THE SORTED DATA BASED ON NAME================================================
+Abdul                          Naihati                        odio@loremsemperauctor.org               1994.09.17           6301      
+Addison                        Orta San Giulio                tempus@vitae.ca                          1998.02.18           3792      
+Aiko                           Port Blair                     mauris@sit.com                           1999.10.24           7251      
+Akmar Yaakub                   Puchong Selangor               akmaryaakub@gmail.com                    1977.06.05           5000      
+Alan Walker                    Lima                           ac.eleifend@amet.co.uk                   2004.03.06           583       
+Amy                            Schagen                        natoque.pena@nullavulputatedui.ca        1994.07.29           925       
+Anastasia                      Turriaco                       ac.eleifend.vitae@sapien.net             1988.09.21           6870      
+Anis Amirah                    Tiang Dua Melaka               anisdinarif97@gmail.com                  1997.07.15           4000      
+Arthur                         Columbia                       diam.at.pretium@venenatisvelfaucibus.co.uk 1988.11.19           7439      
+Ashton                         Boussu-lez-Walcourt            enim@eulacus.net                         1984.10.10           6722      
+Athina Luqman                  Kuching Sarawak                athina1268@gmail.com                     1978.06.18           3000      
+Azni Abas                      Linggi Negeri Sembilan         aznizali68@gmail.com                     1968.03.05           1200      
+Benjamin                       Islamadabad                    quis.pede@facilisis.org                  2000.08.07           9140      
+Boboiboy                       Pulau Rintis                   boboiboy.kuasa3@ochobot.com.my           2003.01.31           910       
+Brandon                        Annapolis Royal                et.risus@nisiAenean.org                  2002.07.30           9668      
+Brett                          Kufstein                       felis.Nulla@enimcommodohendrerit.com     1994.10.23           1081      
+Brianna                        Aydin                          lobortis.ultrices@sociisnatoque.com      1989.06.24           1527      
+Brielle                        White Rock                     diam@cursuspurus.ca                      1989.06.01           6570      
+Cade                           Narbonne                       malesuada.fringilla@tristiqueaceleifend.com 1998.12.02           1505      
+Carissa                        Fogliano                       Redipuglia                               Cras.dictum@vitaerisusDuis.net 1997.06.23
+Carolyn                        Villingen-Schwennin            metus.Aliquam@Vestibulumante.org         1994.01.13           3410      
+Chelsea                        Ciudad Real                    vehicula@metusVivamus.com                2003.03.31           650       
+Chelsea                        Villers-Perwin                 luctus@idsapien.com                      1983.01.02           7031      
+Christopher                    Mannheim                       enim.Curabitur.massa@elit.com            1981.12.10           9391      
+Damon                          Delta                          dui.semper@nisiMauris.co.uk              1977.02.14           8834      
+Daphne                         Arrone                         semper@Suspendisseacmetus.org            1996.08.06           2696      
+Dara                           Mandurah                       sem.elit@bibendumullamcorper.ca          1974.07.08           7861      
+Debra                          Castel Guelfo di Bologna       justo.sit@anteblanditviverra.co.uk       1992.12.16           4080      
+Dustin                         Sotteville-les-Rouen           Nunc.sed.orci@a.co.uk                    1996.07.25           4465      
+Echo                           Santiago                       augue.acipsum@Pellentesque.ca            1989.04.12           3625      
+Erich                          Cardigan                       eget.tincidunt.dui@velest.co.uk          1976.04.09           8983      
+Fang                           Pulau Rintis                   shadow.tiger@ochobot.com.my              2005.11.01           864       
+Fatin Aisyah Ghazali           Linggi Negeri Sembilan         aisyah.fatin@gmail.com                   1997.05.20           3000      
+Fatin Aisyah Malali            Linggi Negeri Sembilan         cute.athirah@gmail.com                   2001.04.25           3000      
+Florence                       Florida                        senectus@tempor.ca                       1993.01.29           4099      
+Flynn                          Jackson                        Cras@lectus.com                          1990.09.29           3482      
+Gemma                          Chambave                       bibendum.sed.est@sagittis.edu            1980.07.23           7753      
+Germaine                       Halifax                        felis@enimMaurisquis.com                 1980.05.19           5638      
+Ghazali Yaakub                 Linggi Negeri Sembilan         gyaakub@yahoo.com                        1963.12.11           5000      
+Gillian                        Molino dei Torti               magna@fringillapurus.edu                 2001.09.03           1814      
+Gopal                          Pulau Rintis                   foodlover@ochobot.com.my                 2005.12.31           546       
+Holly                          Ilheus                         aenean.eget@Integervulputaterisus.co.uk  1975.12.31           8817      
+Hope                           Karacabey                      ut.quam.vel@traperinceptos.net           1989.10.09           7993      
+Ian Chong                       Melbourne                     Donec@vehiculaet.co.uk                   1995.05.10           8568      
+Ira                            Todi                           Ut.sagittis@indolorFusce.net             1995.11.18           3775      
+Isaiah                         Bremen                         a.feugiat.tellus@semconsequatnec.net     2000.04.30           919       
+James                          Lincoln                        eu@vitaeorci.org                         2003.12.22           577       
+Janna                          Villarrica                     augue.ac@ipsumsodalespurus.ca            1994.12.20           3958      
+Jocelyn                        Bever Bievene                  in@nec.com                               1978.01.05           7876      
+John Watson                    Baker Street 221B              johnwatson@hotmail.com                   1975.10.28           4764      
+Keefe                          Mobique                        ultricies@nonummyacfeugiat.ca            1992.03.08           6935      
+Kristen	Santomenna             Manchester                     tempus.scelerisque@Nullamscelerisque.edu 1983.07.13           7784      
+Kylie                          Vergnies                       Donec.dignissim@mattissemperdui.net      1970.05.08           9269      
+Lacus Welt                     Masterton                      lacus.Mauris@ligulaNullamfeugiat.com     1996.03.02           7446      
+Linus                          Colchester                     egestas@non.co.uk                        1986.10.27           7129      
+Linus                          Olcenengo                      Suspendisse.ac.metus@nonleo.net          1990.02.24           7166      
+Lucius                         Naninne                        ullamcorper.magna@lobortis.org           1992.04.17           6341      
+Macaulay                       Dallas                         et@placeratvelitQuisque.net              1992.06.23           5673      
+Madeline                       Gillette                       egestas@in.net                           1996.11.30           4361      
+Madonna                        Santarcangelo di Romagna       ullamcorper@tempus.ca                    1990.12.12           6167      
